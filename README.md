@@ -7,8 +7,8 @@
 База данных
 ------------
 В начале всего запускаем Open Server и выставляем в его настройки такие параметры:<br>
-<img src="FOR_READ_ME/1.png" width="300px">
-<img src="FOR_READ_ME/2.png" width="300px">
+<img src="FOR_READ_ME/1.png" width="500px">
+<img src="FOR_READ_ME/2.png" width="500px">
 
 
 Установка Yii2
