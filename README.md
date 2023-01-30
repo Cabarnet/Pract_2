@@ -4,16 +4,14 @@
     <h1 align="center">No Ozone - CRUD operations</h1>
 </p>
 
-База данных
-------------
+<h2>База данных</h2>
 В начале всего запускаем Open Server и выставляем в его настройки такие параметры:
 <br>
 <img src="FOR_READ_ME/1.png" width="410px">
 <img src="FOR_READ_ME/2.png" width="410px">
+Затем запускаем СУБД PhpMyAdmin, создаём базу данных с названием no_ozone и в параметр импорта добавляем файл no-ozone.sql
 
-
-Установка Yii2
-------------
+<h2>Установка Yii2</h2>
 Установить через композер
 Если у вас нет Composer, вы можете установить его, следуя инструкциям на сайте [getcomposer.org](http://getcomposer.org/doc/00-intro.md#installation-nix).
 
