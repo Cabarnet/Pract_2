@@ -1,12 +1,13 @@
+Для удобного просмотра рекомендуется сделать зум сайта: 150%
 <p align="center">
     <img src="FOR_READ_ME/DB.png">
     <h1 align="center">No Ozone - CRUD operations</h1>
-    <br>
 </p>
 
 База данных
 ------------
-В начале всего запускаем Open Server и выставляем в его настройки такие параметры:<br>
+В начале всего запускаем Open Server и выставляем в его настройки такие параметры:
+<br>
 <img src="FOR_READ_ME/1.png" width="410px">
 <img src="FOR_READ_ME/2.png" width="410px">
 
