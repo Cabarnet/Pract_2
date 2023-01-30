@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="DB.png">
+    <img src="../FOR_READ_ME/DB.png">
     <h1 align="center">No Ozone - CRUD operations</h1>
     <br>
 </p>
