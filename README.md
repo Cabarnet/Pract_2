@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://disk.yandex.ru/i/SogHWc8DDzQYUw" height="100px">
+    <img src="DB.png" height="100px">
     <h1 align="center">Yii 2 Basic Project Template</h1>
     <br>
 </p>
