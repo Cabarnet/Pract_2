@@ -14,11 +14,10 @@
 Затем запускаем СУБД PhpMyAdmin, создаём базу данных с названием no_ozone и в параметр импорта добавляем файл no-ozone.sql
 
 <h2>Установка проекта No Ozone</h2>
-С помощью Visual Studio Code клонируем репоситорий с github:
 Если у вас нет Composer, вы можете установить его, следуя инструкциям на сайте <a href="http://getcomposer.org/doc/00-intro.md#installation-nix">getcomposer.org</a>.
-~~~
+С помощью Visual Studio Code клонируем репоситорий с github:
 <p>https://github.com/Cabarnet/no_ozone.git</p>
-~~~
+
 
 Затем открываем композер и вставляем туда следующие команды:
 ~~~
