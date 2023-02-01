@@ -16,7 +16,6 @@
 <h2>Установка проекта No Ozone</h2>
 <p>Если у вас нет Composer, вы можете установить его, следуя инструкциям на сайте <a href="http://getcomposer.org/doc/00-intro.md#installation-nix">getcomposer.org</a>.
 С помощью Visual Studio Code клонируем репоситорий с github: https://github.com/Cabarnet/no_ozone.git</p>
-<br>
 
 Затем открываем композер и вставляем туда следующие команды:
 ~~~
