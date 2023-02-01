@@ -28,6 +28,11 @@ composer update
 <img src="FOR_READ_ME/Gii.png">
 
 <p>Были созданы модели для всех таблиц:
-<img style="display: inline-block;" src="FOR_READ_ME/1.png" width="400px"> 
-<img style="display: inline-block;" src="FOR_READ_ME/2.png" width="400px">
+<img style="display: inline-block;" src="FOR_READ_ME/3.png" width="400px"> 
+<img style="display: inline-block;" src="FOR_READ_ME/models.png" width="400px">
 </p>
+<p>А так же контроллеры и отображения:
+<img style="display: inline-block;" src="FOR_READ_ME/4.png" width="400px"> 
+<img style="display: inline-block;" src="FOR_READ_ME/5.png" width="400px">
+</p>
+
