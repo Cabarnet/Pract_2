@@ -30,13 +30,13 @@ composer update
 <p>Были созданы модели для всех таблиц:
     <div>
 <img style="display: inline-block;" src="FOR_READ_ME/3.png" width="400px"> 
-<img style="display: inline-block;" src="FOR_READ_ME/models.png" width="400px">
+<img style="display: inline-block;" src="FOR_READ_ME/models.png" width="200px">
     </div>
 </p>
 <p>А так же контроллеры и отображения:
     <div>
 <img style="display: inline-block;" src="FOR_READ_ME/4.png" width="400px"> 
-<img style="display: inline-block;" src="FOR_READ_ME/5.png" width="400px">
+<img style="display: inline-block;" src="FOR_READ_ME/5.png" width="200px">
     </div>
 </p>
 
