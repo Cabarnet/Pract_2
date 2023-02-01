@@ -23,6 +23,9 @@ composer create-project --prefer-dist yiisoft/yii2-app-basic basic
 ~~~
 
 <h2>Скачивание проекта No Ozone</h2>
+С помощью Visual Studio Code клонируем репоситорий с github:
 ~~~
-composer create-project --prefer-dist yiisoft/yii2-app-basic basic
+https://github.com/Cabarnet/no_ozone.git
 ~~~
+Затем открываем композер и вставляем туда следующие команды:
+
