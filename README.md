@@ -17,7 +17,7 @@
 С помощью Visual Studio Code клонируем репоситорий с github:
 Если у вас нет Composer, вы можете установить его, следуя инструкциям на сайте <a href="http://getcomposer.org/doc/00-intro.md#installation-nix">getcomposer.org</a>.
 ~~~
-https://github.com/Cabarnet/no_ozone.git
+<p>https://github.com/Cabarnet/no_ozone.git</p>
 ~~~
 
 Затем открываем композер и вставляем туда следующие команды:
