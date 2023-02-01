@@ -13,7 +13,7 @@
 
 <h2>Установка Yii2</h2>
 Установить через композер
-Если у вас нет Composer, вы можете установить его, следуя инструкциям на сайте <a src="http://getcomposer.org/doc/00-intro.md#installation-nix">getcomposer.org</a>.
+Если у вас нет Composer, вы можете установить его, следуя инструкциям на сайте <a href="http://getcomposer.org/doc/00-intro.md#installation-nix">getcomposer.org</a>.
 
 Затем вы можете установить этот шаблон проекта, используя следующую команду:
 ~~~
