@@ -6,9 +6,10 @@
 
 <h2>База данных</h2>
 В начале всего запускаем Open Server и выставляем в его настройки такие параметры:
+<br>
 <div>
-<img style="display: inline-block;" src="FOR_READ_ME/1.png" width="400px">
-<img style="display: inline-block;" src="FOR_READ_ME/2.png" width="400px">
+<img style="display: inline-block;" src="FOR_READ_ME/1.png" width="440px"> 
+<img style="display: inline-block;" src="FOR_READ_ME/2.png" width="440px">
 </div>
 Затем запускаем СУБД PhpMyAdmin, создаём базу данных с названием no_ozone и в параметр импорта добавляем файл no-ozone.sql
 
