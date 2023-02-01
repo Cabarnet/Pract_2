@@ -28,4 +28,7 @@ composer create-project --prefer-dist yiisoft/yii2-app-basic basic
 https://github.com/Cabarnet/no_ozone.git
 ~~~
 Затем открываем композер и вставляем туда следующие команды:
-
+~~~
+cd domains/no-ozone
+composer update
+~~~
