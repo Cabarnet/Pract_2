@@ -17,11 +17,10 @@
 <p>Если у вас нет Composer, вы можете установить его, следуя инструкциям на сайте <a href="http://getcomposer.org/doc/00-intro.md#installation-nix">getcomposer.org</a>.
 С помощью Visual Studio Code клонируем репоситорий с github: https://github.com/Cabarnet/no_ozone.git</p>
 <br>
-
-<p>Затем открываем композер и вставляем туда следующие команды:
+<p>Затем открываем композер и вставляем туда следующие команды:</p>
 ~~~
 cd domains/no-ozone
 composer update
 ~~~
 
-</p>
+
