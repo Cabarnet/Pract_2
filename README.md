@@ -23,6 +23,11 @@ cd domains/no-ozone
 composer update
 ~~~
 
-<h2>Модели и контраллеры</h2>
+<h2>Модели и контроллеры</h2>
 В фреймворке Yii2 есть возможность создавать модели и контроллеры прямо на сайте в Gii:
 <img src="FOR_READ_ME/Gii.png">
+
+<p>Были созданы модели для всех таблиц:
+<img style="display: inline-block;" src="FOR_READ_ME/1.png" width="400px"> 
+<img style="display: inline-block;" src="FOR_READ_ME/2.png" width="400px">
+</p>
