@@ -25,4 +25,4 @@ composer update
 
 <h2>Модели и контраллеры</h2>
 В фреймворке Yii2 есть возможность создавать модели и контроллеры прямо на сайте в Gii:
-<img src="FOR_READ_ME/DB.png">
+<img src="FOR_READ_ME/Gii.png">
