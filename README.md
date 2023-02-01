@@ -7,8 +7,8 @@
 <h2>База данных</h2>
 В начале всего запускаем Open Server и выставляем в его настройки такие параметры:
 <br>
-<img src="FOR_READ_ME/1.png" width="400px">
-<img src="FOR_READ_ME/2.png" width="400px">
+<img src="FOR_READ_ME/1.png" width="390px">
+<img src="FOR_READ_ME/2.png" width="390px">
 Затем запускаем СУБД PhpMyAdmin, создаём базу данных с названием no_ozone и в параметр импорта добавляем файл no-ozone.sql
 
 <h2>Установка Yii2</h2>
