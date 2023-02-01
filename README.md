@@ -13,17 +13,9 @@
 </div>
 Затем запускаем СУБД PhpMyAdmin, создаём базу данных с названием no_ozone и в параметр импорта добавляем файл no-ozone.sql
 
-<h2>Установка Yii2</h2>
-Установить через композер
-Если у вас нет Composer, вы можете установить его, следуя инструкциям на сайте <a href="http://getcomposer.org/doc/00-intro.md#installation-nix">getcomposer.org</a>.
-
-Затем вы можете установить этот шаблон проекта, используя следующую команду:
-~~~
-composer create-project --prefer-dist yiisoft/yii2-app-basic basic
-~~~
-
-<h2>Скачивание проекта No Ozone</h2>
+<h2>Установка проекта No Ozone</h2>
 С помощью Visual Studio Code клонируем репоситорий с github:
+Если у вас нет Composer, вы можете установить его, следуя инструкциям на сайте <a href="http://getcomposer.org/doc/00-intro.md#installation-nix">getcomposer.org</a>.
 ~~~
 https://github.com/Cabarnet/no_ozone.git
 ~~~
@@ -31,5 +23,6 @@ https://github.com/Cabarnet/no_ozone.git
 Затем открываем композер и вставляем туда следующие команды:
 ~~~
 cd domains/no-ozone
+composer update
 ~~~
 
