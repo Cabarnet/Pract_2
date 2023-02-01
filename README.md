@@ -19,7 +19,7 @@
 
 Затем вы можете установить этот шаблон проекта, используя следующую команду:
 ~~~
-composer create-project --prefer-dist yiisoft/yii2-app-basic asic
+composer create-project --prefer-dist yiisoft/yii2-app-basic basic
 ~~~
 
 <h2>Скачивание проекта No Ozone</h2>
@@ -27,7 +27,9 @@ composer create-project --prefer-dist yiisoft/yii2-app-basic asic
 ~~~
 https://github.com/Cabarnet/no_ozone.git
 ~~~
+
 Затем открываем композер и вставляем туда следующие команды:
 ~~~
 cd domains/no-ozone
 ~~~
+
